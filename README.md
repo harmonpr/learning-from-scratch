@@ -8,6 +8,7 @@ For guidance how to use them, please check demo jupyter notebook files,
 
 ### requirement
 NumPy (`conda install numpy` or `pip install numpy`)
+
 Matplotlib (`conda install matplotlib` or `python -m pip install -U matplotlib`
 
 
