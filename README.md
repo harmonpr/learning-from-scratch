@@ -11,6 +11,6 @@ Python 3.x
 
 NumPy (`conda install numpy` or `pip install numpy`)
 
-Matplotlib (`conda install matplotlib` or `python -m pip install -U matplotlib`
+Matplotlib (`conda install matplotlib` or `python -m pip install -U matplotlib`)
 
 
