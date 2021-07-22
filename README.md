@@ -13,4 +13,4 @@ NumPy (`conda install numpy` or `pip install numpy`)
 
 Matplotlib (`conda install matplotlib` or `python -m pip install -U matplotlib`)
 
-scikit-learn (`conda install -c conda-forge scikit-learn` or `pip install -U scikit-learn`
+scikit-learn (`conda install -c conda-forge scikit-learn` or `pip install -U scikit-learn`)
